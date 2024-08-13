@@ -1,0 +1,6 @@
+[submodule "Idle of the Ages Lib"]
+	path = Idle of the Ages Lib
+	url = https://github.com/daanstout/Idle-of-the-Ages-Lib
+[submodule "Idle of the Ages UI"]
+	path = Idle of the Ages UI
+	url = https://github.com/daanstout/Idle-of-the-Ages-UI
