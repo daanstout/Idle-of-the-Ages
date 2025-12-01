@@ -4,6 +4,3 @@
 [submodule "Idle of the Ages UI"]
 	path = Idle of the Ages UI
 	url = https://github.com/daanstout/Idle-of-the-Ages-UI
-[submodule "Idle of the Ages Unity"]
-	path = Idle of the Ages Unity
-	url = https://github.com/daanstout/Idle-of-the-Ages-Unity
